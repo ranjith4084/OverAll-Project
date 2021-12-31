@@ -8,7 +8,9 @@ Phone - 9566127215
 
 ## Photos
 **InFight Sales APP :**
+
 <img src="https://user-images.githubusercontent.com/80382586/147824902-eb8a940b-f073-48d0-b100-89e8fff4c79a.png" width="800" height="800">
+
 **Animal E-commerce App :**
 <img src="https://user-images.githubusercontent.com/80382586/147370789-b0e58287-0320-4aac-9f0d-85dff5ee9fbb.png" width="1300" height="800">
 **Hot-Deal App :**
