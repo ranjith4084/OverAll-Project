@@ -14,10 +14,10 @@ Phone - 9566127215
 **Animal E-commerce App :**
 
 <img src="https://user-images.githubusercontent.com/80382586/147370789-b0e58287-0320-4aac-9f0d-85dff5ee9fbb.png" width="800" height="800">
-
+<!-- 
 **Hot-Deal App :**
 
-<img src="https://user-images.githubusercontent.com/80382586/147826408-1f8c2355-ffee-404a-ba74-45696991d4b5.png" width="800" height="800">
+<img src="https://user-images.githubusercontent.com/80382586/147826408-1f8c2355-ffee-404a-ba74-45696991d4b5.png" width="800" height="800"> -->
 
 **Museums Of Possibility App :**
 
