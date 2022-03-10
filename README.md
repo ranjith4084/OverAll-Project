@@ -51,7 +51,7 @@ Phone - 9566127215
 **World Time App :**
 
 <img src="https://user-images.githubusercontent.com/80382586/147370473-5ceccd25-f366-43ab-884c-8698372aeed0.png" width="800" height="800">
-<!-- 
+
 **Hot-Deal App :**
 
-<img src="https://user-images.githubusercontent.com/80382586/147826408-1f8c2355-ffee-404a-ba74-45696991d4b5.png" width="800" height="800"> -->
+<img src="https://user-images.githubusercontent.com/80382586/147826408-1f8c2355-ffee-404a-ba74-45696991d4b5.png" width="800" height="800"> 
